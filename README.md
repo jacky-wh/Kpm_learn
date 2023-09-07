@@ -18,6 +18,7 @@ Neural Koopman Lyapunov Control https://github.com/Vrushabh27/Neural-Koopman-Lya
 Koopman-based Neural Lyapunov functions for general attractors https://github.com/dekovski/Koopman_Lyapunov
 An MCMC Method for Uncertainty Set Generation via Operator-Theoretic Metrics https://github.com/asrvsn/koopman-robust-control
 Forecasting Sequential Data using Consistent Koopman Autoencoders  https://github.com/erichson/koopmanAE
+Deep learning for universal linear embeddings of nonlinear dynamics https://github.com/BethanyL/DeepKoopman
 
 demo
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman
