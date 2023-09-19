@@ -19,7 +19,7 @@ Forecasting Sequential Data using Consistent Koopman Autoencoders  https://githu
 Deep learning for universal linear embeddings of nonlinear dynamics https://github.com/BethanyL/DeepKoopman
 Active Learning of Dynamics and Data-Driven Control https://github.com/ianabraham21/koopman-ctrl-active-learning  
 Koopman NMPC: Koopman-based Learning and Nonlinear Model Predictive Control of Control-affine Systems [code](https://github.com/Cafolkes/koopman_learning_and_control)  
-Data-driven Control of Soft Robots Using Koopman Operator Theory [2020 TRO] (https://github.com/ramvasudevan/soft-robot-koopman)
+Data-driven Control of Soft Robots Using Koopman Operator Theory [2020 TRO](https://github.com/ramvasudevan/soft-robot-koopman)
 # demo  
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
