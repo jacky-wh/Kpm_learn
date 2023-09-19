@@ -17,8 +17,8 @@ Koopman-based Neural Lyapunov functions for general attractors https://github.co
 An MCMC Method for Uncertainty Set Generation via Operator-Theoretic Metrics https://github.com/asrvsn/koopman-robust-control
 Forecasting Sequential Data using Consistent Koopman Autoencoders  https://github.com/erichson/koopmanAE
 Deep learning for universal linear embeddings of nonlinear dynamics https://github.com/BethanyL/DeepKoopman
-Active Learning of Dynamics and Data-Driven Control https://github.com/ianabraham21/koopman-ctrl-active-learning
-demo
+Active Learning of Dynamics and Data-Driven Control https://github.com/ianabraham21/koopman-ctrl-active-learning  
+Koopman NMPC: Koopman-based Learning and Nonlinear Model Predictive Control of Control-affine Systems demo [code](https://github.com/Cafolkes/koopman_learning_and_control)
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
 kmpc python https://github.com/CTCingithub/KoopmanMPC-Igor2018
