@@ -1,8 +1,7 @@
 # Koopman_learn
 # git10 
 
-Koopman model predictive control "Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control", Automatica 2018, by Milan Korda and Igor Mezic.https://github.com/MilanKorda/KoopmanMPC
-
+Koopman model predictive control "Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control", Automatica 2018, by Milan Korda and Igor Mezic.[code](https://github.com/MilanKorda/KoopmanMPCp)  
 SE(3) Koopman-MPC: Data-driven Learning and Control of Quadrotor UAVs https://github.com/sriram-2502/KoopmanMPC_Quadrotor
 
 Deep Koopman AutoEncoder https://github.com/sriram-2502/Deep_Koopman_AutoEncoder
