@@ -1,6 +1,4 @@
-# Koopman_learn
-# git10 
-
+# Koopman_learn  
 Koopman model predictive control "Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control", Automatica 2018, by Milan Korda and Igor Mezic.[code](https://github.com/MilanKorda/KoopmanMPC)  
 SE(3) Koopman-MPC: Data-driven Learning and Control of Quadrotor UAVs [code](https://github.com/sriram-2502/KoopmanMPC_Quadrotor)   
 Deep Koopman AutoEncoder [code](https://github.com/sriram-2502/Deep_Koopman_AutoEncoder)   
@@ -19,7 +17,8 @@ Forecasting Sequential Data using Consistent Koopman Autoencoders  https://githu
 Deep learning for universal linear embeddings of nonlinear dynamics https://github.com/BethanyL/DeepKoopman
 Active Learning of Dynamics and Data-Driven Control https://github.com/ianabraham21/koopman-ctrl-active-learning  
 Koopman NMPC: Koopman-based Learning and Nonlinear Model Predictive Control of Control-affine Systems [code](https://github.com/Cafolkes/koopman_learning_and_control)  
-Data-driven Control of Soft Robots Using Koopman Operator Theory [2020 TRO](https://github.com/ramvasudevan/soft-robot-koopman)
+Data-driven Control of Soft Robots Using Koopman Operator Theory [2020 TRO](https://github.com/ramvasudevan/soft-robot-koopman)  
+DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator [ICLR 2022](https://github.com/srl-ethz/DeSKO-Deep-Stochastic-Koopman-Operator)  
 # demo  
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
