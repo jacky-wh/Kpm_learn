@@ -23,4 +23,5 @@ DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator 
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
 kmpc python https://github.com/CTCingithub/KoopmanMPC-Igor2018
+USV_DeepKoopman [Project 2022](https://github.com/qypalice/USV_DeepKoopman)  
 
