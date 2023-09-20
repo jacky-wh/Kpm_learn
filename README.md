@@ -18,7 +18,8 @@ Deep learning for universal linear embeddings of nonlinear dynamics https://gith
 Active Learning of Dynamics and Data-Driven Control https://github.com/ianabraham21/koopman-ctrl-active-learning  
 Koopman NMPC: Koopman-based Learning and Nonlinear Model Predictive Control of Control-affine Systems [code](https://github.com/Cafolkes/koopman_learning_and_control)  
 Data-driven Control of Soft Robots Using Koopman Operator Theory [2020 TRO](https://github.com/ramvasudevan/soft-robot-koopman)  
-DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator [ICLR 2022](https://github.com/srl-ethz/DeSKO-Deep-Stochastic-Koopman-Operator)  
+DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator [ICLR 2022](https://github.com/srl-ethz/DeSKO-Deep-Stochastic-Koopman-Operator)   
+Learning Model Predictive Control of Nonlinear Systems with Time-varying Parameters Using Koopman Operator [Nonlinear Dyn 2021](https://github.com/MichaelMillerCSU/Koopman-online-updated-MPC)
 # demo  
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
