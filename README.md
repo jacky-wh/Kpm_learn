@@ -25,9 +25,11 @@ DeepGraphKoopmanOperator [github](https://github.com/mturja-vf-ic-bd/DeepGraphKo
 Deep Probabilistic Koopman: Long-term time-series forecasting under periodic uncertainties[International Journal of Forecasting 2023 arxiv2021](https://github.com/AlexTMallen/dpk#deep-probabilistic-koopman-dpk-long-term-time-series-forecasting-under-periodic-uncertainties)  
 Deep Learning for Koopman Operator Optimal Control [Master's Project 2020](https://github.com/xl402/deep-koopman#deep-learning-for-koopman-operator-optimal-control)  
 # demo  
-cart_pole.ipynb https://github.com/i-abr/mpc-koopman
-pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
-kmpc python https://github.com/CTCingithub/KoopmanMPC-Igor2018
-USV_DeepKoopman [Project 2022](https://github.com/qypalice/USV_DeepKoopman)  
+cart_pole.ipynb https://github.com/i-abr/mpc-koopman  
+pendulum  https://github.com/sabean/Koopman_MPC_py_matlab  
+kmpc python https://github.com/CTCingithub/KoopmanMPC-Igor2018  
+USV_DeepKoopman [Project 2022](https://github.com/qypalice/USV_DeepKoopman)    
 Controlled synchronization of coupled pendulums by Koopman Model Predictive Control [Control Engineering Practice 2023](https://github.com/aa4cc/KoopmanMPC-for-synchronization)  
+Koopman [github](https://github.com/kianmolani/koopman-mpc)  
+
 
