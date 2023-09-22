@@ -21,7 +21,8 @@ Data-driven Control of Soft Robots Using Koopman Operator Theory [2020 TRO](http
 DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator [ICLR 2022](https://github.com/srl-ethz/DeSKO-Deep-Stochastic-Koopman-Operator)   
 Learning Model Predictive Control of Nonlinear Systems with Time-varying Parameters Using Koopman Operator [Nonlinear Dyn 2021](https://github.com/MichaelMillerCSU/Koopman-online-updated-MPC)  
 Learning Compositional Koopman Operators for Model-Based Control [ICLR 2020](https://github.com/YunzhuLi/CompositionalKoopmanOperators)  
-DeepGraphKoopmanOperator [github](https://github.com/mturja-vf-ic-bd/DeepGraphKoopmanOperator#interpretable-deep-graph-koopman-operator)
+DeepGraphKoopmanOperator [github](https://github.com/mturja-vf-ic-bd/DeepGraphKoopmanOperator#interpretable-deep-graph-koopman-operator)  
+Deep Probabilistic Koopman: Long-term time-series forecasting under periodic uncertainties[International Journal of Forecasting 2023 arxiv2021](https://github.com/AlexTMallen/dpk#deep-probabilistic-koopman-dpk-long-term-time-series-forecasting-under-periodic-uncertainties)
 # demo  
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
