@@ -6,15 +6,15 @@ Koopman operator based MPC for autonomous vehicles. [code](https://github.com/sr
 Learning Model Predictive Control of Nonlinear Systems with Time-varying Parameters Using Koopman Operator [code](https://github.com/MichaelMillerCSU/Koopman-online-updated-MPC)  
 pykoopman  [code](https://github.com/dynamicslab/pykoopman)  
 Koopman-RL [code](https://github.com/Pdbz199/Koopman-RL)  
-Learning Compositional Koopman Operators for Model-Based Control [code](https://github.com/YunzhuLi/CompositionalKoopmanOperators)
-Koopman Operator Analysis with Deep Learning https://github.com/MLDS-NUS/KoopmanDL
-Learning Nonlinear Model Predictive Controllers and Virtual Sensors with Koopman Operators https://github.com/sergiovaneg/Koopman
-Embedding Koopman Optimal Control in Robot Policy Learning https://github.com/navigator8972/koopman_policy
-Neural Koopman Lyapunov Control https://github.com/Vrushabh27/Neural-Koopman-Lyapunov-Control
-Koopman-based Neural Lyapunov functions for general attractors https://github.com/dekovski/Koopman_Lyapunov
-An MCMC Method for Uncertainty Set Generation via Operator-Theoretic Metrics https://github.com/asrvsn/koopman-robust-control
-Forecasting Sequential Data using Consistent Koopman Autoencoders  https://github.com/erichson/koopmanAE
-Deep learning for universal linear embeddings of nonlinear dynamics https://github.com/BethanyL/DeepKoopman
+Learning Compositional Koopman Operators for Model-Based Control [code](https://github.com/YunzhuLi/CompositionalKoopmanOperators)  
+Koopman Operator Analysis with Deep Learning https://github.com/MLDS-NUS/KoopmanDL  
+Learning Nonlinear Model Predictive Controllers and Virtual Sensors with Koopman Operators https://github.com/sergiovaneg/Koopman  
+Embedding Koopman Optimal Control in Robot Policy Learning https://github.com/navigator8972/koopman_policy  
+Neural Koopman Lyapunov Control https://github.com/Vrushabh27/Neural-Koopman-Lyapunov-Control  
+Koopman-based Neural Lyapunov functions for general attractors https://github.com/dekovski/Koopman_Lyapunov  
+An MCMC Method for Uncertainty Set Generation via Operator-Theoretic Metrics https://github.com/asrvsn/koopman-robust-control  
+Forecasting Sequential Data using Consistent Koopman Autoencoders  https://github.com/erichson/koopmanAE  
+Deep learning for universal linear embeddings of nonlinear dynamics https://github.com/BethanyL/DeepKoopman  
 Active Learning of Dynamics and Data-Driven Control https://github.com/ianabraham21/koopman-ctrl-active-learning  
 Koopman NMPC: Koopman-based Learning and Nonlinear Model Predictive Control of Control-affine Systems [code](https://github.com/Cafolkes/koopman_learning_and_control)  
 Data-driven Control of Soft Robots Using Koopman Operator Theory [2020 TRO](https://github.com/ramvasudevan/soft-robot-koopman)  
