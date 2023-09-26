@@ -25,7 +25,8 @@ DeepGraphKoopmanOperator [github](https://github.com/mturja-vf-ic-bd/DeepGraphKo
 Deep Probabilistic Koopman: Long-term time-series forecasting under periodic uncertainties[International Journal of Forecasting 2023 arxiv2021](https://github.com/AlexTMallen/dpk#deep-probabilistic-koopman-dpk-long-term-time-series-forecasting-under-periodic-uncertainties)  
 Deep Learning for Koopman Operator Optimal Control [Master's Project 2020](https://github.com/xl402/deep-koopman#deep-learning-for-koopman-operator-optimal-control)  
 Data-driven Predictive Tracking Control based on Koopman Operators [arxiv 2022](https://github.com/autosysproj/ktmpc)  
-Estimating Koopman operators with sketching to provably learn large scale dynamical systems[arxiv 2023](https://github.com/Giodiro/NystromKoopman) 
+Estimating Koopman operators with sketching to provably learn large scale dynamical systems[arxiv 2023](https://github.com/Giodiro/NystromKoopman)  
+Neural-Koopman-Lyapunov-Control [Neurocomputing 2023](https://github.com/Vrushabh27/Neural-Koopman-Lyapunov-Control#neural-koopman-lyapunov-control)
 # demo  
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman  
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab  
