@@ -32,6 +32,7 @@ pendulum  https://github.com/sabean/Koopman_MPC_py_matlab
 kmpc python https://github.com/CTCingithub/KoopmanMPC-Igor2018  
 USV_DeepKoopman [Project 2022](https://github.com/qypalice/USV_DeepKoopman)    
 Controlled synchronization of coupled pendulums by Koopman Model Predictive Control [Control Engineering Practice 2023](https://github.com/aa4cc/KoopmanMPC-for-synchronization)  
-Koopman [github](https://github.com/kianmolani/koopman-mpc)  
+Koopman-mpc*quad [github](https://github.com/kianmolani/koopman-mpc)  
+koopman lqr [github](https://github.com/tony23545/DeepKoopman)
 
 
