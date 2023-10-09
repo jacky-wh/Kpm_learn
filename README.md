@@ -26,7 +26,8 @@ Deep Probabilistic Koopman: Long-term time-series forecasting under periodic unc
 Deep Learning for Koopman Operator Optimal Control [Master's Project 2020](https://github.com/xl402/deep-koopman#deep-learning-for-koopman-operator-optimal-control)  
 Data-driven Predictive Tracking Control based on Koopman Operators [arxiv 2022](https://github.com/autosysproj/ktmpc)  
 Estimating Koopman operators with sketching to provably learn large scale dynamical systems[arxiv 2023](https://github.com/Giodiro/NystromKoopman)  
-Neural-Koopman-Lyapunov-Control [Neurocomputing 2023](https://github.com/Vrushabh27/Neural-Koopman-Lyapunov-Control#neural-koopman-lyapunov-control)
+Neural-Koopman-Lyapunov-Control [Neurocomputing 2023](https://github.com/Vrushabh27/Neural-Koopman-Lyapunov-Control#neural-koopman-lyapunov-control)  
+Koopman Constrained Policy Optimization: a Koopman operator theoretic method for differentiable optimal control in robotics [ICML 2023](https://github.com/mhr/kcpo-icml)
 # demo  
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman  
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab  
