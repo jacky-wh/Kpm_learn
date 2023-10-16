@@ -13,7 +13,7 @@ Embedding Koopman Optimal Control in Robot Policy Learning https://github.com/na
 Neural Koopman Lyapunov Control https://github.com/Vrushabh27/Neural-Koopman-Lyapunov-Control  
 Koopman-based Neural Lyapunov functions for general attractors https://github.com/dekovski/Koopman_Lyapunov  
 An MCMC Method for Uncertainty Set Generation via Operator-Theoretic Metrics https://github.com/asrvsn/koopman-robust-control  
-Forecasting Sequential Data using Consistent Koopman Autoencoders  https://github.com/erichson/koopmanAE  
+Forecasting Sequential Data using Consistent Koopman Autoencoders  [arxiv 2020](https://github.com/erichson/koopmanAE)  
 Deep learning for universal linear embeddings of nonlinear dynamics https://github.com/BethanyL/DeepKoopman  
 Active Learning of Dynamics and Data-Driven Control https://github.com/ianabraham21/koopman-ctrl-active-learning  
 Koopman NMPC: Koopman-based Learning and Nonlinear Model Predictive Control of Control-affine Systems [code](https://github.com/Cafolkes/koopman_learning_and_control)  
