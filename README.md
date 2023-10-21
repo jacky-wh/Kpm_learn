@@ -29,6 +29,10 @@ Estimating Koopman operators with sketching to provably learn large scale dynami
 Neural-Koopman-Lyapunov-Control [Neurocomputing 2023](https://github.com/Vrushabh27/Neural-Koopman-Lyapunov-Control#neural-koopman-lyapunov-control)  
 Koopman Constrained Policy Optimization: a Koopman operator theoretic method for differentiable optimal control in robotics [ICML 2023](https://github.com/mhr/kcpo-icml)  
 Deep Koopman Operator with Control for Nonlinear Systems [RA-L 2022](https://github.com/HaojieSHI98/DeepKoopmanWithControl)  
+Invariant subspaces of Koopman operators with artificial neural networks [Github](https://github.com/axsk/ISOKANN.jl)  
+Finite-time Koopman Identifier: A Unified Batch-online Learning Framework for Joint Learning of Koopman Structure and Parameters [Github](https://github.com/majid-mazouchi/Finite-time-Koopman-Identifier)  
+Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors [NeurIPS 2023](https://github.com/thuml/Koopa)
+
 # demo  
 cart_pole.ipynb https://github.com/i-abr/mpc-koopman  
 pendulum  https://github.com/sabean/Koopman_MPC_py_matlab  
